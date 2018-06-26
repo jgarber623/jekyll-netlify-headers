@@ -4,6 +4,7 @@
 
 [![Gem](https://img.shields.io/gem/v/jekyll-netlify-headers.svg?style=for-the-badge)](https://rubygems.org/gems/jekyll-netlify-headers)
 [![Downloads](https://img.shields.io/gem/dt/jekyll-netlify-headers.svg?style=for-the-badge)](https://rubygems.org/gems/jekyll-netlify-headers)
+[![Dependencies](https://img.shields.io/depfu/jgarber623/jekyll-netlify-headers.svg?style=for-the-badge)](https://depfu.com/github/jgarber623/jekyll-netlify-headers)
 
 Netlify's HTTP headers configuration is _quite_ powerful. Netlify provides two options for configuring your Netlify-deployed website's rules: either in [a `netlify.toml` file](https://www.netlify.com/docs/netlify-toml-reference/) or in [a `_headers` file](https://www.netlify.com/docs/headers-and-basic-auth/).
 
