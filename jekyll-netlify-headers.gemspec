@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'jekyll/netlify/headers/version'
 
 Gem::Specification.new do |spec|
-  spec.required_ruby_version = ['>= 2.4.0', '< 2.6']
+  spec.required_ruby_version = ['>= 2.4', '< 2.6']
 
   spec.name          = 'jekyll-netlify-headers'
   spec.version       = Jekyll::Netlify::Headers::VERSION
@@ -20,9 +20,9 @@ Gem::Specification.new do |spec|
 
   spec.require_paths = ['lib']
 
-  spec.add_development_dependency 'bundler', '~> 1.16', '>= 1.16.2'
-  spec.add_development_dependency 'rake', '~> 12.3', '>= 12.3.1'
+  spec.add_development_dependency 'bundler', '~> 1.17'
+  spec.add_development_dependency 'rake', '~> 12.3'
   spec.add_development_dependency 'rubocop', '~> 0.60.0'
 
-  spec.add_runtime_dependency 'jekyll', '~> 3.8', '>= 3.8.3'
+  spec.add_runtime_dependency 'jekyll', '~> 3.8'
 end
