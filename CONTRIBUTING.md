@@ -11,9 +11,9 @@ I definitely appreciate your interest in (and help improving) jekyll-netlify-hea
 
 ## Installation
 
-jekyll-netlify-headers is written in [Ruby](https://www.ruby-lang.org) (version 2.4.4) and development dependencies are managed using the [Bundler](https://bundler.io) gem.
+jekyll-netlify-headers is written in [Ruby](https://www.ruby-lang.org) (version 2.4.5) and development dependencies are managed using the [Bundler](https://bundler.io) gem.
 
-I manage Ruby versions with [rbenv](https://github.com/rbenv/rbenv). I'd recommend you do the same or use a similar Ruby version manager ([chruby](https://github.com/postmodern/chruby) or [RVM](https://rvm.io) come to mind). Once you've installed Ruby 2.4.4 using your method of choice, install the project's gems by running:
+I manage Ruby versions with [rbenv](https://github.com/rbenv/rbenv). I'd recommend you do the same or use a similar Ruby version manager ([chruby](https://github.com/postmodern/chruby) or [RVM](https://rvm.io) come to mind). Once you've installed Ruby 2.4.5 using your method of choice, install the project's gems by running:
 
 ```sh
 bundle install
