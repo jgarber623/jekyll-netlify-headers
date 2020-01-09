@@ -1,7 +1,7 @@
 require:
   - rubocop-performance
 
-Metrics/LineLength:
+Layout/LineLength:
   Enabled: false
 
 Style/Documentation:
