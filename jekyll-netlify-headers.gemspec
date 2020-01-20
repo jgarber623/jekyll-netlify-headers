@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'jekyll/netlify/headers/version'
 
 Gem::Specification.new do |spec|
-  spec.required_ruby_version = ['>= 2.4', '< 2.7']
+  spec.required_ruby_version = ['>= 2.4', '< 2.8']
 
   spec.name          = 'jekyll-netlify-headers'
   spec.version       = Jekyll::Netlify::Headers::VERSION
