@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0 / 2020-01-20
+
+- Expand supported Ruby versions to include 2.7 ()
+
 ## 0.1.3 / 2019-08-21
 
 - Change jekyll version constraint to >= 3.8 (5b2b9de).
