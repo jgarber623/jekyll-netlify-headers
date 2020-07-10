@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'rake', '~> 13.0'
   spec.add_development_dependency 'rubocop', '~> 0.87.1'
-  spec.add_development_dependency 'rubocop-performance', '~> 1.6'
+  spec.add_development_dependency 'rubocop-performance', '~> 1.7'
 
   spec.add_runtime_dependency 'jekyll', '>= 3.8'
 end
