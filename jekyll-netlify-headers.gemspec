@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_development_dependency 'rake', '~> 13.0'
-  spec.add_development_dependency 'rubocop', '~> 0.92.0'
+  spec.add_development_dependency 'rubocop', '~> 0.93.0'
   spec.add_development_dependency 'rubocop-performance', '~> 1.8'
 
   spec.add_runtime_dependency 'jekyll', '>= 3.8'
