@@ -1,5 +1,9 @@
 require:
   - rubocop-performance
+  - rubocop-rake
+
+AllCops:
+  NewCops: enable
 
 Layout/LineLength:
   Enabled: false
